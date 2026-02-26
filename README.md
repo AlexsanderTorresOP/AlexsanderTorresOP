@@ -1,6 +1,6 @@
 <h1 align="center">👋 Fala, eu sou o Alex!</h1>
 <p align="center">
-  <img src="https://www.sptech.school/assets/logo-sptech.png" width="200"/>
+  <img src="https://www.sptech.school/assets/logo-sptech.png](https://sptech.school/wp-content/uploads/2025/02/sptech_principal.png" width="200"/>
 </p>
 <p align="center">
   💻 Focado em Infraestrutura & DevOps <br>
