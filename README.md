@@ -1,11 +1,14 @@
 <h1 align="center">👋 Fala, eu sou o Alex!</h1>
 
-<p>
+<p align="center">
   <img 
     src="https://github.com/user-attachments/assets/3e0e4bf1-4382-41bc-aafe-47fe7d3324c7" 
-    width="300" 
+    width="260"
     align="left"
   />
+</p>
+
+<div align="left" style="margin-left: 290px;">
 
 💻 **Infraestrutura & DevOps**  
 🐳 Containers • Docker • Kubernetes  
@@ -15,7 +18,7 @@
 ☁️ Cloud • Arquitetura Escalável  
 🔐 Segurança • Hardening • Boas práticas  
 
-</p>
+</div>
 
 <br clear="left"/>
 
