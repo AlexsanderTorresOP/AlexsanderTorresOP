@@ -1,13 +1,12 @@
 <h1 align="center">👋 Fala, eu sou o Alex!</h1>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<p>
+  <img 
+    src="https://github.com/user-attachments/assets/3e0e4bf1-4382-41bc-aafe-47fe7d3324c7" 
+    width="300" 
+    align="left"
+  />
 
-  <div>
-    <img width="309" height="197" src="https://github.com/user-attachments/assets/3e0e4bf1-4382-41bc-aafe-47fe7d3324c7" />
-  </div>
-
-  <div align="left" style="max-width: 400px;">
-    
 💻 **Infraestrutura & DevOps**  
 🐳 Containers • Docker • Kubernetes  
 ⚙️ Automação • CI/CD • GitHub Actions  
@@ -16,9 +15,9 @@
 ☁️ Cloud • Arquitetura Escalável  
 🔐 Segurança • Hardening • Boas práticas  
 
-  </div>
+</p>
 
-</div>
+<br clear="left"/>
 
 ---
 
