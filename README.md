@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3e0e4bf1-4382-41bc-aafe-47fe7d3324c7" width="180" style="border-radius: 50%"/>
-  
-  # Alex
+  <img src="https://github.com/user-attachments/assets/3e0e4bf1-4382-41bc-aafe-47fe7d3324c7" width="320"/>
   
   `Infraestrutura` · `DevOps` · `Cloud`
 
