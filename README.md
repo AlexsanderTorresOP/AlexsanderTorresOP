@@ -1,7 +1,5 @@
 <h1 align="center">👋 Fala, eu sou o Alex!</h1>
 
-<h1 align="center">👋 Fala, eu sou o Alex!</h1>
-
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
   <div>
