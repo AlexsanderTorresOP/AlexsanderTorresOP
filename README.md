@@ -1,6 +1,6 @@
 <h1 align="center">👋 Fala, eu sou o Alex!</h1>
 <p align="center">
-  <img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/b7f47a16-2e5b-41cd-9fba-67f98b57b4af" />
+   <img width="309" height="197" alt="image" src="https://github.com/user-attachments/assets/3e0e4bf1-4382-41bc-aafe-47fe7d3324c7" />
 </p>
 <p align="center">
   💻 Focado em Infraestrutura & DevOps <br>
