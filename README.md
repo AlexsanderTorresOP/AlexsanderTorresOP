@@ -1,29 +1,20 @@
 <h1 align="center">👋 Fala, eu sou o Alex!</h1>
-
+<p align="center">
+  <img src="https://www.sptech.school/assets/logo-sptech.png" width="200"/>
+</p>
 <p align="center">
   💻 Focado em Infraestrutura & DevOps <br>
   🐳 Containers • Docker • Kubernetes <br>
-  📊 Dashboards e sistemas orientados a dados
 </p>
-
 ---
-
-## 🚀 Sobre mim
-
-Sou desenvolvedor em formação apaixonado por entender como sistemas funcionam por dentro.  
-Gosto de construir soluções organizadas, escaláveis e automatizadas.
-
 Atualmente focado em:
 - Infraestrutura
 - Containers
 - Orquestração
 - Visualização de dados
 - Automação
-
 ---
-
 ## 🛠️ Tecnologias
-
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -32,19 +23,12 @@ Atualmente focado em:
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
 ---
 
 ## 📊 Projeto em destaque
 
 🐳 **Laboratórios DevOps**  
 Estudos práticos com Docker, containers e simulação de ambientes.
-
----
-
-## 🎯 Objetivo
-
-Me tornar um Engenheiro de DevOps capaz de projetar sistemas escaláveis, automatizados e resilientes.
 
 ---
 
