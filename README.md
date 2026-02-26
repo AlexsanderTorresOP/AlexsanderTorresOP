@@ -1,19 +1,29 @@
 <h1 align="center">👋 Fala, eu sou o Alex!</h1>
-<p align="center">
-   <img width="309" height="197" alt="image" src="https://github.com/user-attachments/assets/3e0e4bf1-4382-41bc-aafe-47fe7d3324c7" />
-</p>
-<p align="center">
-  💻 Focado em Infraestrutura & DevOps <br>
-  🐳 Containers • Docker • Kubernetes <br>
-</p>
----
-Atualmente focado em:
-- Infraestrutura
-- Containers
-- Orquestração
-- Visualização de dados
-- Automação
----
+<table>
+   <td>
+      <p align="center">
+         <img width="309" height="197" alt="image" src="https://github.com/user-attachments/assets/3e0e4bf1-4382-41bc-aafe-47fe7d3324c7" />
+      </p>
+   </td>
+ 
+   <td>      
+      <p align="center">
+        💻 Focado em Infraestrutura & DevOps <br>
+        🐳 Containers • Docker • Kubernetes <br>
+      </p>
+      ---
+      Atualmente focado em:
+      - Infraestrutura
+      - Containers
+      - Orquestração
+      - Visualização de dados
+      - Automação
+      ---
+      </p>
+   </td>
+   <p>
+
+</table>
 ## 🛠️ Tecnologias
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
