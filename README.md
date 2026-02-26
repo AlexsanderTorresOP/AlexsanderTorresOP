@@ -1,14 +1,18 @@
 <h1 align="center">👋 Fala, eu sou o Alex!</h1>
 
-<p align="center">
+<p>
   <img 
     src="https://github.com/user-attachments/assets/3e0e4bf1-4382-41bc-aafe-47fe7d3324c7" 
     width="260"
     align="left"
   />
-</p>
 
-<div align="left" style="margin-left: 290px;">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" align="right"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" align="right"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" align="right"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" align="right"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" align="right"/>
+  <img src="https://img.shields.io/badge/CI/CD-222222?style=flat-square&logo=github&logoColor=white" align="right"/>
 
 💻 **Infraestrutura & DevOps**  
 🐳 Containers • Docker • Kubernetes  
@@ -18,9 +22,9 @@
 ☁️ Cloud • Arquitetura Escalável  
 🔐 Segurança • Hardening • Boas práticas  
 
-</div>
+</p>
 
-<br clear="left"/>
+<br clear="both"/>
 
 ---
 
@@ -34,19 +38,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
----
-
-## 📊 Projeto em destaque
-
-<div align="center">
-
-### 🐳 Laboratórios DevOps  
-Ambientes práticos com Docker e Kubernetes para simulação de deploy, redes internas, volumes, automação e troubleshooting.
-
-</div>
-
----
 
 <p align="center">
   ⭐ Sempre aprendendo • Sempre construindo • Sempre evoluindo
