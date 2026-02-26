@@ -29,8 +29,6 @@
 
 ## 🛠️ Tecnologias
 
-
-
 <p align="center">
   ⭐ Sempre aprendendo • Sempre construindo • Sempre evoluindo
 </p>
