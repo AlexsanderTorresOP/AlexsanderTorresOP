@@ -8,17 +8,14 @@
  
    <td>      
       <p align="center">
-        💻 Focado em Infraestrutura & DevOps <br>
-        🐳 Containers • Docker • Kubernetes <br>
+         💻 Focado em Infraestrutura & DevOps <br>
+         🐳 Containers • Docker • Kubernetes <br>
+         ⚙️ Automação • CI/CD • GitHub Actions <br>
+         🖥️ Linux • Shell Script • Redes <br>
+         📊 Monitoramento • Logs • Observabilidade <br>
+         ☁️ Cloud Computing • Arquitetura Escalável <br>
+         🔐 Segurança • Boas práticas • Hardening <br>
       </p>
-      ---
-      Atualmente focado em:
-      - Infraestrutura
-      - Containers
-      - Orquestração
-      - Visualização de dados
-      - Automação
-      ---
    </td>
  
 
