@@ -12,7 +12,6 @@
         🐳 Containers • Docker • Kubernetes <br>
       </p>
       ---
-      <p>
       Atualmente focado em:
       - Infraestrutura
       - Containers
@@ -20,7 +19,6 @@
       - Visualização de dados
       - Automação
       ---
-      </p>
    </td>
  
 
